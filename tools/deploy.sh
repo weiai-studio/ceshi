@@ -4,11 +4,11 @@
 #
 # Requirement: html-proofer, jekyll
 #
-# Usage: See help information gh-pages
+# Usage: See help information
 
 set -eu
 
-PAGES_BRANCH="master"
+PAGES_BRANCH="gh-pages"
 
 SITE_DIR="_site"
 
