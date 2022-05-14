@@ -110,6 +110,16 @@
 
   <script src="{{ site.data.assets[origin].jquery.js }}"></script>
 
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?fb51a87473b1aebd209eaaad9f0e5f99";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
   {% unless site.theme_mode %}
     {% include mode-toggle.html %}
   {% endunless %}
