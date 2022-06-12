@@ -8,10 +8,10 @@
 #  type: twitter
 #  icon: 'fab fa-twitter'
 
-#-
-#  type: email
-#  icon: 'fas fa-envelope'
-#  noblank: true            # open link in current tab
+-
+  type: email
+  icon: 'fas fa-envelope'
+  noblank: true            # open link in current tab
 
 #-
 #  type: rss
@@ -20,8 +20,8 @@
 
 #-
 #  type: bilibili
-#  icon: 'fa-bilibili'
-#  url: "https://space.bilibili.com/1590605446?spm_id_from=333.337.0.0"
+#  icon: 'fas fa-b'
+#  url: 'https://space.bilibili.com/1590605446?spm_id_from=333.337.0.0'
 
 # Uncomment and complete the url below to enable more contact options
 # -
@@ -32,7 +32,7 @@
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
-# -
+#-
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
