@@ -27,7 +27,8 @@ title: 唯爱工作室·赛事部                          # the main title
 tagline: wass   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  唯爱工作室·赛事部（WASS） 官方网站
+#  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://wass.weiai2019.xyz"
