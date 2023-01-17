@@ -24,7 +24,7 @@ timezone: Asia/Shanghai
 
 title: 唯爱工作室·宣传部                          # the main title
 
-tagline: wass   # it will display as the sub-title
+tagline: Weiai Studio · Publicity Department   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   唯爱工作室·宣传部（Weiai Studio · Publicity Department） 官方网站
@@ -45,7 +45,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: wass
+  name: Weiai Studio · Publicity Department
   email: weiaistudio2019@163.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
