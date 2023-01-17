@@ -22,12 +22,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 唯爱工作室·赛事部                          # the main title
+title: 唯爱工作室·宣传部                          # the main title
 
 tagline: wass   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  唯爱工作室·赛事部（WASS） 官方网站
+  唯爱工作室·宣传部（Weiai Studio · Publicity Department） 官方网站
 #  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'

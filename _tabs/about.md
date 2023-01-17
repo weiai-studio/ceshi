@@ -24,4 +24,5 @@ order: 4
 友情链接（友情站点行为不代表我部立场）：
 [`编程极星·创作者协会`](https://bcmcreator.cn/)
 [`StarBit`](https://www.codekpy.site/)
+[`飓枫博客`](https://blog.wtdown.top/)
 
